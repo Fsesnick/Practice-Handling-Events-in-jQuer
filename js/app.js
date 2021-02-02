@@ -1,10 +1,12 @@
-// 1. Hide/show the text inside the #helpText span element when the user's mouse passes over the text "How are these ranked?" (Hint: use the jQuery toggle() method) 
+ 
 
-// 2. Append a new restaurant to the restaurant list when the user enters a value into the #newRestaurant input and clicks on the #addNew button. 
+// 1. Oculte / mostre (hide/show) o texto dentro do elemento #helpText span quando o mouse do usuário passar sobre o texto "Como eles são classificados?" (Dica: use o método toggle () jQuery)
 
-  // BONUS: Before appending the new restaurant to the list, use string concatentation to make sure the new restaurant name is surrounded by an opening and closing <li> tag. 
+// 2. Anexar um novo restaurante à lista de restaurantes quando o usuário inserir um valor na entrada #newRestaurant e clicar no botão #addNew.
 
-// 3. Add the class "strike" to the restaurant name each time it's double clicked. Use event delegation on the ul element to listen for a click event on the ul's list items
+   // BÔNUS: antes de acrescentar o novo restaurante à lista, use a concatentação de strings para garantir que o nome do novo restaurante esteja entre as tags de abertura e fechamento <li>.
 
-//BONUS: Refactor challenge 3 using the "this" keyword.
-//BONUS: Look up a jQuery method that will let you toggle the .strike class on and off. 
+// 3. Adicione a classe "strike" ao nome do restaurante sempre que clicar duas vezes. Use a delegação de eventos no elemento ul para ouvir um evento click nos itens da lista ul
+
+// BÔNUS: Refatore o desafio 3 usando a palavra-chave "this".
+// BÔNUS: Procure um método jQuery que permitirá que você ative e desative a classe .strike. 
